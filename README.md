@@ -1,4 +1,4 @@
-# ActiveQM Producer 
+# ActiveQM Consumer 
 ## Projeto para receber de mensagens para uma fila do ActiveMQ
 
 
